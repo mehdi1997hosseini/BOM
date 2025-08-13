@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94f01918-0ae1-4f4d-ba67-236cfe7694e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/main/java/ir/mehdihosseini/bom/BomApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/test/java/ir/mehdihosseini/bom/BomApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/main/java/ir/mehdihosseini/bom/BomApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/test/java/ir/mehdihosseini/bom/BomApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mehdi1997hosseini"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mehdi1997hosseini/BOM.git",
+    "accountId": "98f05481-cc00-4c44-b1ea-dd11f7328f30"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="31Djsv1C43h3mcluiYCsHlk4c6G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94f01918-0ae1-4f4d-ba67-236cfe7694e6" name="Changes" comment="" />
+      <created>1755065749178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755065749178</updated>
+      <workItem from="1755065750914" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
