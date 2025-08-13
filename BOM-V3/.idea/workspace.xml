@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94f01918-0ae1-4f4d-ba67-236cfe7694e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../BOM-V2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BOM-V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BOM-V2/BOM/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/BOM/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOM/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BOM/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94f01918-0ae1-4f4d-ba67-236cfe7694e6" name="Changes" comment="complete version 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +38,7 @@
     "Maven.BOM [clean,validate,compile,test,package...].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -76,11 +70,32 @@
       <updated>1755065749178</updated>
       <workItem from="1755065750914" duration="42000" />
       <workItem from="1755083371456" duration="494000" />
-      <workItem from="1755085806377" duration="548000" />
+      <workItem from="1755085806377" duration="849000" />
     </task>
+    <task id="LOCAL-00001" summary="complete version 1">
+      <option name="closed" value="true" />
+      <created>1755086391555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755086391555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="complete version 1">
+      <option name="closed" value="true" />
+      <created>1755086639123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755086639123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete version 1" />
   </component>
 </project>
