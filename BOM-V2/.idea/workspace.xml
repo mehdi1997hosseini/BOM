@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a39fcb-89c8-4a51-a535-00ace984b186" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOM/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BOM/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BOM-V3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BOM-V3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V3/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02a39fcb-89c8-4a51-a535-00ace984b186" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +45,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755065678049</updated>
       <workItem from="1755065679621" duration="48000" />
-      <workItem from="1755085817552" duration="413000" />
+      <workItem from="1755085817552" duration="769000" />
     </task>
     <servers />
   </component>
