@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94f01918-0ae1-4f4d-ba67-236cfe7694e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/main/java/ir/mehdihosseini/bom/BomApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-2/BOM/src/test/java/ir/mehdihosseini/bom/BomApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/main/java/ir/mehdihosseini/bom/BomApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version-3/BOM/src/test/java/ir/mehdihosseini/bom/BomApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOM-V2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOM-V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOM-V2/BOM/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOM-V2/BOM/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BOM/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mehdi1997hosseini"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mehdi1997hosseini&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mehdi1997hosseini/BOM.git",
-    "accountId": "98f05481-cc00-4c44-b1ea-dd11f7328f30"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mehdi1997hosseini/BOM.git&quot;,
+    &quot;accountId&quot;: &quot;98f05481-cc00-4c44-b1ea-dd11f7328f30&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="31Djsv1C43h3mcluiYCsHlk4c6G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,11 +42,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.BOM [clean,validate,compile,test,package...].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1755065749178</updated>
       <workItem from="1755065750914" duration="42000" />
+      <workItem from="1755083371456" duration="494000" />
+      <workItem from="1755085806377" duration="548000" />
     </task>
     <servers />
   </component>

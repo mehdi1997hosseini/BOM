@@ -6,15 +6,16 @@
     <groupId>ir.mehdiHosseini</groupId>
     <artifactId>BOM</artifactId>
     <version>2.0.1</version>
-
     <name>BOM-v2</name>
     <description>Basic BOM project for in the Java range 8 to 17</description>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>8</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <spring.boot.version>2.6.15</spring.boot.version>
+        <spring.data.elasticsearch.version>5.5.2</spring.data.elasticsearch.version>
         <spring.framework.version>5.3.30</spring.framework.version>
         <hibernate.version>5.6.15.Final</hibernate.version>
         <calender.jalali>5.9.1</calender.jalali>
@@ -57,6 +58,11 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
                 <version>${spring.boot.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.data</groupId>
+                <artifactId>spring-data-elasticsearch</artifactId>
+                <version>${spring.data.elasticsearch.version}</version>
             </dependency>
             <!-- وابستگی Spring Framework -->
             <dependency>
@@ -288,6 +294,10 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-elasticsearch</artifactId>
         </dependency>
     </dependencies>
 

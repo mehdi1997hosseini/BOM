@@ -5,9 +5,10 @@
 
     <groupId>ir.mehdiHosseini</groupId>
     <artifactId>BOM</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <name>BOM-v3</name>
     <description>Basic BOM project for in the Java range 17 to end</description>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>17</java.version>
